@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Regexp-Simplify.t
+lib/Regexp/Simplify.pm

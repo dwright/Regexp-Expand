@@ -1,0 +1,6 @@
+Revision history for Perl extension Regexp::Simplify.
+
+0.00_01  Tue Jul  5 21:52:22 2005
+	- original version; created by h2xs 1.23 with options
+		-ABXn Regexp::Simplify
+
